@@ -1,0 +1,20 @@
+h1 {
+    color: brown;
+}
+
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-evenly  ;
+    border: 10px purple groove;
+}
+
+.grid{
+    background-image:-webkit-image-set("designbig");
+    display:flex;  
+    flex-wrap: wrap; 
+    justify-content: space-evenly;
+    padding: 0.5cm;
+    border: 10px gold groove;
+    ;
+}
